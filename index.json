@@ -2184,8 +2184,8 @@
     "series": {
       "shortname": "real-world-meshing",
       "currentSpecification": "real-world-meshing",
-      "title": "WebXR Mesh Detection",
-      "shortTitle": "WebXR Mesh Detection",
+      "title": "Unicorn! · GitHub",
+      "shortTitle": "Unicorn! · GitHub",
       "nightlyUrl": "https://immersive-web.github.io/real-world-meshing/"
     },
     "organization": "W3C",
@@ -2197,15 +2197,15 @@
     ],
     "nightly": {
       "url": "https://immersive-web.github.io/real-world-meshing/",
-      "status": "Draft Community Group Report",
+      "status": "Editor's Draft",
       "alternateUrls": [],
       "repository": "https://github.com/immersive-web/real-world-meshing",
       "sourcePath": "index.bs",
       "filename": "index.html"
     },
-    "title": "WebXR Mesh Detection Module",
+    "title": "Unicorn! · GitHub",
     "source": "spec",
-    "shortTitle": "WebXR Mesh Detection",
+    "shortTitle": "Unicorn! · GitHub",
     "categories": [
       "browser"
     ],
